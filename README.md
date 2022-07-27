@@ -1,2 +1,12 @@
 # potatoNow
-Projeto pensado em um serviço de entrega especializado em alimentos feitos com batatas.
+Receitas de batatas
+
+Funcionalidades iniciais:
+>Lista de Receitas
+>Cria nova Receita
+>Edita Receita
+>Comentarios
+
+Tecnologia: 
+React JS
+Material UI
